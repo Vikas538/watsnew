@@ -72,11 +72,25 @@
       <description>Dev news: Azure AI Foundry Agent Service Gains Model Context Protocol Support In Preview</description>
     </item>
     <item>
+      <title>🤖 Journey to 1000 models: Scaling Instagram’s recommendation system</title>
+      <link>http://localhost:1313/posts/journey-to-1000-models-scaling-instagrams-recommendation-system/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/journey-to-1000-models-scaling-instagrams-recommendation-system/</guid>
+      <description>Dev news: Journey to 1000 models: Scaling Instagram’s recommendation system</description>
+    </item>
+    <item>
       <title>🤖 Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec</title>
       <link>http://localhost:1313/posts/launch-hn-morph-yc-s23-apply-ai-code-edits-at-4500-tokens-sec/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/launch-hn-morph-yc-s23-apply-ai-code-edits-at-4500-tokens-sec/</guid>
       <description>Dev news: Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec</description>
+    </item>
+    <item>
+      <title>🤖 Meta’s Full-stack HHVM optimizations for GenAI</title>
+      <link>http://localhost:1313/posts/metas-full-stack-hhvm-optimizations-for-genai/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/metas-full-stack-hhvm-optimizations-for-genai/</guid>
+      <description>Dev news: Meta’s Full-stack HHVM optimizations for GenAI</description>
     </item>
     <item>
       <title>🤖 Podcast: Mandy Gu on Generative AI (GenAI) Implementation, User Profiles and Adoption of LLMs</title>
