@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>First on watsnew.dev</title>
-    <link>http://localhost:1313/tags/first/</link>
+    <link>https://watsnew.dev/tags/first/</link>
     <description>Recent content in First on watsnew.dev</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://watsnew.dev/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://watsnew.dev/posts/hello-world/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://watsnew.dev/posts/hello-world/</guid>
       <description>&lt;p&gt;Welcome to &lt;strong&gt;watsnew.dev&lt;/strong&gt; — your daily AI news digest!&lt;/p&gt;</description>
     </item>
   </channel>

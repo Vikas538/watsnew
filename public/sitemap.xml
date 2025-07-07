@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/an-inside-look-at-metas-transition-from-c-to-rust-on-mobile/</loc>
+    <loc>https://watsnew.dev/posts/an-inside-look-at-metas-transition-from-c-to-rust-on-mobile/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/meta-joins-kotlin-foundation/</loc>
+    <loc>https://watsnew.dev/posts/meta-joins-kotlin-foundation/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/show-hn-integrated-system-for-enhancing-vic-output/</loc>
+    <loc>https://watsnew.dev/posts/show-hn-integrated-system-for-enhancing-vic-output/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/</loc>
+    <loc>https://watsnew.dev/posts/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/java-news-roundup-spring-grpc-micronaut-jreleaser-tomcat-quarkus-legacy-config-classes/</loc>
+    <loc>https://watsnew.dev/posts/java-news-roundup-spring-grpc-micronaut-jreleaser-tomcat-quarkus-legacy-config-classes/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://watsnew.dev/posts/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://watsnew.dev/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/5-ways-to-transform-your-workflow-using-github-copilot-and-mcp/</loc>
+    <loc>https://watsnew.dev/posts/5-ways-to-transform-your-workflow-using-github-copilot-and-mcp/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/github-advisory-database-by-the-numbers-known-security-vulnerabilities-and-what-you-can-do-about-them/</loc>
+    <loc>https://watsnew.dev/posts/github-advisory-database-by-the-numbers-known-security-vulnerabilities-and-what-you-can-do-about-them/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/understand-your-softwares-supply-chain-with-githubs-dependency-graph/</loc>
+    <loc>https://watsnew.dev/posts/understand-your-softwares-supply-chain-with-githubs-dependency-graph/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/azure-ai-foundry-agent-service-gains-model-context-protocol-support-in-preview/</loc>
+    <loc>https://watsnew.dev/posts/azure-ai-foundry-agent-service-gains-model-context-protocol-support-in-preview/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/journey-to-1000-models-scaling-instagrams-recommendation-system/</loc>
+    <loc>https://watsnew.dev/posts/journey-to-1000-models-scaling-instagrams-recommendation-system/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/launch-hn-morph-yc-s23-apply-ai-code-edits-at-4500-tokens-sec/</loc>
+    <loc>https://watsnew.dev/posts/launch-hn-morph-yc-s23-apply-ai-code-edits-at-4500-tokens-sec/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/metas-full-stack-hhvm-optimizations-for-genai/</loc>
+    <loc>https://watsnew.dev/posts/metas-full-stack-hhvm-optimizations-for-genai/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/podcast-mandy-gu-on-generative-ai-genai-implementation-user-profiles-and-adoption-of-llms/</loc>
+    <loc>https://watsnew.dev/posts/podcast-mandy-gu-on-generative-ai-genai-implementation-user-profiles-and-adoption-of-llms/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/researchers-attempt-to-uncover-the-origins-of-creativity-in-diffusion-models/</loc>
+    <loc>https://watsnew.dev/posts/researchers-attempt-to-uncover-the-origins-of-creativity-in-diffusion-models/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://watsnew.dev/categories/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/first/</loc>
+    <loc>https://watsnew.dev/tags/first/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>https://watsnew.dev/posts/hello-world/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/intro/</loc>
+    <loc>https://watsnew.dev/tags/intro/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://watsnew.dev/tags/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/updates/</loc>
+    <loc>https://watsnew.dev/categories/updates/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
