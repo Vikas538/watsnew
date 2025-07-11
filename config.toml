@@ -2,7 +2,7 @@ baseURL = "https://watsnew.dev/"
 languageCode = "en-us"
 title = "watsnew.dev"
 theme = "PaperMod"
-publishDir = "docs"
+publishDir = "docs"  
 
 [params]
   ShowReadingTime = true
@@ -15,7 +15,7 @@ publishDir = "docs"
     url = "/"
     weight = 1
 
-  [[menu.main]]publishDir
+  [[menu.main]]
     name = "Tags"
     url = "/tags/"
     weight = 2
@@ -24,5 +24,3 @@ publishDir = "docs"
     name = "Categories"
     url = "/categories/"
     weight = 3
-
-
