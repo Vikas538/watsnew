@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>watsnew.dev</title>
-    <link>https://watsnew.dev/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on watsnew.dev</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://watsnew.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💻 An inside look at Meta’s transition from C to Rust on mobile</title>
-      <link>https://watsnew.dev/posts/an-inside-look-at-metas-transition-from-c-to-rust-on-mobile/</link>
+      <link>http://localhost:1313/posts/an-inside-look-at-metas-transition-from-c-to-rust-on-mobile/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/an-inside-look-at-metas-transition-from-c-to-rust-on-mobile/</guid>
+      <guid>http://localhost:1313/posts/an-inside-look-at-metas-transition-from-c-to-rust-on-mobile/</guid>
       <description>Dev news: An inside look at Meta’s transition from C to Rust on mobile</description>
     </item>
     <item>
       <title>💻 Meta joins Kotlin Foundation</title>
-      <link>https://watsnew.dev/posts/meta-joins-kotlin-foundation/</link>
+      <link>http://localhost:1313/posts/meta-joins-kotlin-foundation/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/meta-joins-kotlin-foundation/</guid>
+      <guid>http://localhost:1313/posts/meta-joins-kotlin-foundation/</guid>
       <description>Dev news: Meta joins Kotlin Foundation</description>
     </item>
     <item>
       <title>📰 Show HN: Integrated System for Enhancing VIC Output</title>
-      <link>https://watsnew.dev/posts/show-hn-integrated-system-for-enhancing-vic-output/</link>
+      <link>http://localhost:1313/posts/show-hn-integrated-system-for-enhancing-vic-output/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/show-hn-integrated-system-for-enhancing-vic-output/</guid>
+      <guid>http://localhost:1313/posts/show-hn-integrated-system-for-enhancing-vic-output/</guid>
       <description>Dev news: Show HN: Integrated System for Enhancing VIC Output</description>
     </item>
     <item>
       <title>🔐 CVE-2025-53367: An exploitable out-of-bounds write in DjVuLibre</title>
-      <link>https://watsnew.dev/posts/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/</link>
+      <link>http://localhost:1313/posts/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/</guid>
+      <guid>http://localhost:1313/posts/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/</guid>
       <description>Dev news: CVE-2025-53367: An exploitable out-of-bounds write in DjVuLibre</description>
     </item>
     <item>
       <title>🚀 Java News Roundup: Spring gRPC, Micronaut, JReleaser, Tomcat, Quarkus Legacy Config Classes</title>
-      <link>https://watsnew.dev/posts/java-news-roundup-spring-grpc-micronaut-jreleaser-tomcat-quarkus-legacy-config-classes/</link>
+      <link>http://localhost:1313/posts/java-news-roundup-spring-grpc-micronaut-jreleaser-tomcat-quarkus-legacy-config-classes/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/java-news-roundup-spring-grpc-micronaut-jreleaser-tomcat-quarkus-legacy-config-classes/</guid>
+      <guid>http://localhost:1313/posts/java-news-roundup-spring-grpc-micronaut-jreleaser-tomcat-quarkus-legacy-config-classes/</guid>
       <description>Dev news: Java News Roundup: Spring gRPC, Micronaut, JReleaser, Tomcat, Quarkus Legacy Config Classes</description>
     </item>
     <item>
       <title>🛠️ 5 ways to transform your workflow using GitHub Copilot and MCP</title>
-      <link>https://watsnew.dev/posts/5-ways-to-transform-your-workflow-using-github-copilot-and-mcp/</link>
+      <link>http://localhost:1313/posts/5-ways-to-transform-your-workflow-using-github-copilot-and-mcp/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/5-ways-to-transform-your-workflow-using-github-copilot-and-mcp/</guid>
+      <guid>http://localhost:1313/posts/5-ways-to-transform-your-workflow-using-github-copilot-and-mcp/</guid>
       <description>Dev news: 5 ways to transform your workflow using GitHub Copilot and MCP</description>
     </item>
     <item>
       <title>🛠️ GitHub Advisory Database by the numbers: Known security vulnerabilities and what you can do about them</title>
-      <link>https://watsnew.dev/posts/github-advisory-database-by-the-numbers-known-security-vulnerabilities-and-what-you-can-do-about-them/</link>
+      <link>http://localhost:1313/posts/github-advisory-database-by-the-numbers-known-security-vulnerabilities-and-what-you-can-do-about-them/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/github-advisory-database-by-the-numbers-known-security-vulnerabilities-and-what-you-can-do-about-them/</guid>
+      <guid>http://localhost:1313/posts/github-advisory-database-by-the-numbers-known-security-vulnerabilities-and-what-you-can-do-about-them/</guid>
       <description>Dev news: GitHub Advisory Database by the numbers: Known security vulnerabilities and what you can do about them</description>
     </item>
     <item>
       <title>🛠️ Understand your software’s supply chain with GitHub’s dependency graph</title>
-      <link>https://watsnew.dev/posts/understand-your-softwares-supply-chain-with-githubs-dependency-graph/</link>
+      <link>http://localhost:1313/posts/understand-your-softwares-supply-chain-with-githubs-dependency-graph/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/understand-your-softwares-supply-chain-with-githubs-dependency-graph/</guid>
+      <guid>http://localhost:1313/posts/understand-your-softwares-supply-chain-with-githubs-dependency-graph/</guid>
       <description>Dev news: Understand your software’s supply chain with GitHub’s dependency graph</description>
     </item>
     <item>
       <title>🤖 Azure AI Foundry Agent Service Gains Model Context Protocol Support In Preview</title>
-      <link>https://watsnew.dev/posts/azure-ai-foundry-agent-service-gains-model-context-protocol-support-in-preview/</link>
+      <link>http://localhost:1313/posts/azure-ai-foundry-agent-service-gains-model-context-protocol-support-in-preview/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/azure-ai-foundry-agent-service-gains-model-context-protocol-support-in-preview/</guid>
+      <guid>http://localhost:1313/posts/azure-ai-foundry-agent-service-gains-model-context-protocol-support-in-preview/</guid>
       <description>Dev news: Azure AI Foundry Agent Service Gains Model Context Protocol Support In Preview</description>
     </item>
     <item>
       <title>🤖 Journey to 1000 models: Scaling Instagram’s recommendation system</title>
-      <link>https://watsnew.dev/posts/journey-to-1000-models-scaling-instagrams-recommendation-system/</link>
+      <link>http://localhost:1313/posts/journey-to-1000-models-scaling-instagrams-recommendation-system/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/journey-to-1000-models-scaling-instagrams-recommendation-system/</guid>
+      <guid>http://localhost:1313/posts/journey-to-1000-models-scaling-instagrams-recommendation-system/</guid>
       <description>Dev news: Journey to 1000 models: Scaling Instagram’s recommendation system</description>
     </item>
     <item>
       <title>🤖 Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec</title>
-      <link>https://watsnew.dev/posts/launch-hn-morph-yc-s23-apply-ai-code-edits-at-4500-tokens-sec/</link>
+      <link>http://localhost:1313/posts/launch-hn-morph-yc-s23-apply-ai-code-edits-at-4500-tokens-sec/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/launch-hn-morph-yc-s23-apply-ai-code-edits-at-4500-tokens-sec/</guid>
+      <guid>http://localhost:1313/posts/launch-hn-morph-yc-s23-apply-ai-code-edits-at-4500-tokens-sec/</guid>
       <description>Dev news: Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec</description>
     </item>
     <item>
       <title>🤖 Meta’s Full-stack HHVM optimizations for GenAI</title>
-      <link>https://watsnew.dev/posts/metas-full-stack-hhvm-optimizations-for-genai/</link>
+      <link>http://localhost:1313/posts/metas-full-stack-hhvm-optimizations-for-genai/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/metas-full-stack-hhvm-optimizations-for-genai/</guid>
+      <guid>http://localhost:1313/posts/metas-full-stack-hhvm-optimizations-for-genai/</guid>
       <description>Dev news: Meta’s Full-stack HHVM optimizations for GenAI</description>
     </item>
     <item>
       <title>🤖 Podcast: Mandy Gu on Generative AI (GenAI) Implementation, User Profiles and Adoption of LLMs</title>
-      <link>https://watsnew.dev/posts/podcast-mandy-gu-on-generative-ai-genai-implementation-user-profiles-and-adoption-of-llms/</link>
+      <link>http://localhost:1313/posts/podcast-mandy-gu-on-generative-ai-genai-implementation-user-profiles-and-adoption-of-llms/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/podcast-mandy-gu-on-generative-ai-genai-implementation-user-profiles-and-adoption-of-llms/</guid>
+      <guid>http://localhost:1313/posts/podcast-mandy-gu-on-generative-ai-genai-implementation-user-profiles-and-adoption-of-llms/</guid>
       <description>Dev news: Podcast: Mandy Gu on Generative AI (GenAI) Implementation, User Profiles and Adoption of LLMs</description>
     </item>
     <item>
       <title>🤖 Researchers Attempt to Uncover the Origins of Creativity in Diffusion Models</title>
-      <link>https://watsnew.dev/posts/researchers-attempt-to-uncover-the-origins-of-creativity-in-diffusion-models/</link>
+      <link>http://localhost:1313/posts/researchers-attempt-to-uncover-the-origins-of-creativity-in-diffusion-models/</link>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/researchers-attempt-to-uncover-the-origins-of-creativity-in-diffusion-models/</guid>
+      <guid>http://localhost:1313/posts/researchers-attempt-to-uncover-the-origins-of-creativity-in-diffusion-models/</guid>
       <description>Dev news: Researchers Attempt to Uncover the Origins of Creativity in Diffusion Models</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://watsnew.dev/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://watsnew.dev/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>&lt;p&gt;Welcome to &lt;strong&gt;watsnew.dev&lt;/strong&gt; — your daily AI news digest!&lt;/p&gt;</description>
     </item>
   </channel>
